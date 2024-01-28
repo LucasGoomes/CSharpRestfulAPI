@@ -1,0 +1,6 @@
+@CSharpRestfulAPI_HostAddress = http://localhost:5062
+
+GET {{CSharpRestfulAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
